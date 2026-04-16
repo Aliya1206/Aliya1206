@@ -1,6 +1,6 @@
 ## Hello, I'm Aliya👋
 
-Software Development Graduate from Glasgow Caledonian University (GCU) <br>
+First Class Honours Software Development for Business Graduate from Glasgow Caledonian University (GCU) <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aliya-imran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliyaimran1206@gmail.com) 
